@@ -1,8 +1,6 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "categories": [
+    {"id":"1","type":"category","attributes":{"name":"Animals","shortName":"Animals"}},{"id":"2","type":"category","attributes":{"name":"Automotive","shortName":"Automotive"}},{"id":"3","type":"category","attributes":{"name":"Beauty \u0026 personal care","shortName":"Beauty"}},{"id":"4","type":"category","attributes":{"name":"Business, finance, and insurance","shortName":"Business"}},{"id":"5","type":"category","attributes":{"name":"Children \u0026 family","shortName":"Children \u0026 family"}},{"id":"6","type":"category","attributes":{"name":"Education \u0026 books","shortName":"Education \u0026 Books"}},{"id":"7","type":"category","attributes":{"name":"Entertainment \u0026 events","shortName":"Culture \u0026 Events"}},{"id":"8","type":"category","attributes":{"name":"Fashion","shortName":"Fashion"}},{"id":"9","type":"category","attributes":{"name":"Food \u0026 drink","shortName":"Food \u0026 drink"}},{"id":"10","type":"category","attributes":{"name":"Health, fitness, and sports","shortName":"Health \u0026 Fitness"}},{"id":"11","type":"category","attributes":{"name":"Home \u0026 garden","shortName":"Home \u0026 garden"}},{"id":"12","type":"category","attributes":{"name":"Photography, art, music, and design","shortName":"Art \u0026 Music"}},{"id":"13","type":"category","attributes":{"name":"Restaurants, bars, and hotels","shortName":"Dining \u0026 bars"}},{"id":"14","type":"category","attributes":{"name":"Social enterprise \u0026 not for profit","shortName":"Charity"}},{"id":"15","type":"category","attributes":{"name":"Social media, web, and tech","shortName":"Tech \u0026 Digital"}},{"id":"16","type":"category","attributes":{"name":"Travel \u0026 destinations","shortName":"Travel"}}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
